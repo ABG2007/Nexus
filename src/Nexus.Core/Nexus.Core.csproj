@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Nexus.Core</RootNamespace>
+    <AssemblyName>Nexus.Core</AssemblyName>
+  </PropertyGroup>
+  <!-- Nexus.Core has ZERO dependencies by design. Pure domain. -->
+</Project>
